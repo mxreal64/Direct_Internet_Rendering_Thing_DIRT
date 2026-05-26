@@ -26,4 +26,6 @@ and watch the pixels snap onto the display grid in under 50ms.
 if it doesn't work, well that's why i made it open source, i'm absolutely not a maxlevel code guy.
 
 licensed under gplv3 because open-source infrastructure belongs to the builders.
-real64 labs // 2026
+mxreal64 // 2026
+
+if anyone sees this, do whatever the hell you want, i just made an experiment
